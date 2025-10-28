@@ -9,6 +9,7 @@ body{
     margin: 10px;
     border: 2px solid red;
     border-radius: 5px;
+    font-style: italic;
 }
 nav{ 
     margin: 20px;
