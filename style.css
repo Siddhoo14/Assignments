@@ -9,7 +9,9 @@ body{
     margin: 10px;
     border: 2px solid red;
     border-radius: 5px;
-    font-style: italic;
+}
+h1{
+    color: black;
 }
 nav{ 
     margin: 20px;
@@ -18,25 +20,28 @@ nav{
 }
 table{
     border-collapse: collapse;
-    width: 100%;
+    margin: 0 auto;
+    width: 90%;
     height: 100%;
 }   
 tr{
     font-size: 20px;
+    font-weight: 100;
+    td{
+        font-style: italic;
+    }
 }
 td,th{
-    padding: 10px;
+    padding: 20px;
 }
 div{
-    margin: 10px;
+    margin: 0px;
     padding: 10px;
 }
 a{
     text-decoration: none;
+    color: blue;
 }
 a:hover{
     color: red;
-}
-a:visited{
-    color: blue;
 }
