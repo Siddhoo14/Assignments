@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 10px;
     padding: 0;
     box-sizing: border-box;
     text-align: center;
@@ -14,9 +14,9 @@ h1{
     color: black;
 }
 nav{ 
-    margin: 20px;
-    padding: 10px;
-    font-size: 25px;
+    margin: 15px;
+    padding: 8px;
+    font-size: 30px;
 }
 table{
     border-collapse: collapse;

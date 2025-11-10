@@ -152,7 +152,7 @@ html,body{
     background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZseWFheXYyam1ybzFkOWxiMGpwazBvdGEwdjJsMWYwcnkwZzlmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVRgrfOBPeH5zNWJU/giphy.gif);
     background-size: cover;
     background-position: center;
-    -webkit-background-clip: text;
+    /* -webkit-background-clip: text; */
     background-clip: text;
 }
 .name-siddharth > h1{
@@ -163,7 +163,7 @@ footer{
     width: 100%;
     margin-top: 2rem;
     height: 60px;
-    border-top: 1px solid #0000001a;
+    border-top: 2px solid #0000001a;
     display: flex;
     justify-content: center;
     align-items: center;
